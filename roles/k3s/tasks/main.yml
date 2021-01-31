@@ -1,4 +1,0 @@
----
-- include_tasks: _common.yml
-- include_tasks: _master.yml
-- include_tasks: _node.yml
